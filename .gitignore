@@ -1,1 +1,44 @@
+# Public release binaries
 *.exe
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime data
+data/
+logs/
+*.log
+
+# Local/private configuration
+.env
+.env.*
+personas.private.json
+*.private.json
+
+# Credentials / secrets
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

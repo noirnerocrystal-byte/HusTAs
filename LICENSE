@@ -4,9 +4,11 @@ Copyright (c) 2026 HusTAs. All rights reserved.
 
 HusTAs source code is not currently distributed under an open-source license.
 
-Unless a separate written license states otherwise, no permission is granted to copy, publish, sublicense, sell, redistribute, modify, create derivative works from, decompile, disassemble, or reverse engineer the HusTAs implementation or its distributed binaries, except to the extent that an applicable law expressly permits an activity that cannot lawfully be restricted by agreement.
+Permission is granted to download, install, and use official HusTAs binary releases for lawful purposes, subject to this notice and any additional terms provided with the corresponding release.
 
-Official binary releases may be used only under the terms provided with the corresponding release. Distribution of a binary does not grant access to or a license for the underlying source code.
+Except for that limited permission, and unless a separate written license states otherwise, no permission is granted to publish, sublicense, sell, redistribute, modify, create derivative works from, decompile, disassemble, or reverse engineer the HusTAs implementation or its distributed binaries, except to the extent that an applicable law expressly permits an activity that cannot lawfully be restricted by agreement.
+
+Distribution of a binary does not grant access to or a license for the underlying source code.
 
 Third-party libraries, runtimes, services, models, and other components remain subject to their respective licenses and terms.
 
